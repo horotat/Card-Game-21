@@ -19,7 +19,7 @@
   year={2023},
   address={Stockholm, Sweden},
   publisher={ACM},
-  pages={8.},
+  pages={10.},
   doi={10.1145/3568162.3577004},
   url={https://doi.org/10.1145/3568162.3577004}
 }
