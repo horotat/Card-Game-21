@@ -1,5 +1,7 @@
 # I Learn Better Alone! Collaborative and Individual Word Learning With a Child and Adult Robot
 
+If you have problems running the program on Furhat, please ask in the [discussions](https://github.com/horotat/Card-Game-21/discussions). Also if you find bugs or problems please open an [issue ticket](https://github.com/horotat/Card-Game-21/issues) for it.
+
 
 ## Cite
 
