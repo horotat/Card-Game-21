@@ -8,7 +8,7 @@
 > Collaborative and Individual Word Learning With a Child and Adult Robot.
 > In Proceedings of the 2023 ACM/IEEE International Conference on Human-
 > Robot Interaction (HRI ’23), March 13–16, 2023, Stockholm, Sweden. ACM,
-> New York, NY, USA, 8 pages. https://doi.org/10.1145/3568162.3577004
+> New York, NY, USA, 10 pages. https://doi.org/10.1145/3568162.3577004
 
 ### `bibtex`
 ```{bibtex}
